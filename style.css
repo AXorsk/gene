@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+.p5Canvas {
+	display: block;
+	margin: 0 auto;
+}
